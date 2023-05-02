@@ -1,0 +1,4 @@
+-----------TEST INVALID DIMENSION-----------
+Invalid Dimension Exception: -2 is an invalid dimension for rows
+Invalid Dimension Exception: -4 is an invalid dimension for columns
+Invalid Dimension Exception: -2 and -4 are invalid dimensions for rows and columns respectively

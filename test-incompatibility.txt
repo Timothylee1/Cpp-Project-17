@@ -1,0 +1,7 @@
+-----------TEST INCOMPATIBILITY-----------
+Incompatible Matrices Exception: Addition of LHS matrix with dimensions 2 X 2 and RHS matrix with dimensions 3 X 2 is undefined
+Incompatible Matrices Exception: Addition of LHS matrix with dimensions 2 X 2 and RHS matrix with dimensions 3 X 2 is undefined
+Incompatible Matrices Exception: Subtraction of LHS matrix with dimensions 2 X 2 and RHS matrix with dimensions 3 X 2 is undefined
+Incompatible Matrices Exception: Addition of LHS matrix with dimensions 2 X 2 and RHS matrix with dimensions 3 X 2 is undefined
+Incompatible Matrices Exception: Multiplication of LHS matrix with dimensions 2 X 2 and RHS matrix with dimensions 3 X 2 is undefined
+Incompatible Matrices Exception: Multiplication of LHS matrix with dimensions 2 X 2 and RHS matrix with dimensions 3 X 2 is undefined
